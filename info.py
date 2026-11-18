@@ -27,7 +27,7 @@ AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 
 # This Channel Is For When User Start Your Bot Then Bot Send That User Name And Id In This Log Channel, Same For Group Also.
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1003954180870'))
-BIN_CHANNEL = int(environ.get(', '-1004480198183') or LOG_CHANNEL) # Stream/Download files are stored here (default: LOG_CHANNEL)
+BIN_CHANNEL = int(environ.get('BIN_CHANNEL', '-1004480198183')) or LOG_CHANNEL) # Stream/Download files are stored here (default: LOG_CHANNEL)
 
 # This Is File Channel Where You Upload Your File Then Bot Automatically Save It In Database 
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '').split()]  # For Multiple Id Use One Space Between Each.
