@@ -13,7 +13,7 @@ from info import ADMINS, OTHER_DB_URI, DATABASE_NAME
 
 logger = logging.getLogger(__name__)
 
-NOTICE_DEBUG = True  # পরীক্ষা শেষে False করুন
+NOTICE_DEBUG = False  # পরীক্ষা শেষে False করুন
 
 
 async def _dbg(msg, text):
