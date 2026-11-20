@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/BKTpC7py/photo-2026-11-15-17-52-04-7708574944577191956.jpg" alt="DreamZ-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  DreamZ FILTER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DreamZbotZ+Filter+Bot!)
