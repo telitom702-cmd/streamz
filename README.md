@@ -106,10 +106,10 @@ Join My <a href='https://telegram.me/vj_bots'>Update Channel</a> For More Update
 • /repo - 𝑔𝑒𝑡 𝑎𝑛𝑦 𝑟𝑒𝑝𝑜 𝑙𝑖𝑛𝑘 𝑏𝑦 𝑠𝑒𝑎𝑟𝑐ℎ𝑖𝑛𝑔
 • /purgerequests - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑗𝑜𝑖𝑛 𝑟𝑒𝑞𝑢𝑒𝑠𝑡𝑠 𝑓𝑟𝑜𝑚 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒
 • /totalrequests - 𝑔𝑒𝑡 𝑡𝑜𝑡𝑎𝑙 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑗𝑜𝑖𝑛 𝑟𝑒𝑞𝑢𝑒𝑠𝑡 𝑓𝑟𝑜𝑚 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒
-/addnotice - Save a notice for a file keyword
-/listnotices - Show all saved notices
-/delnotice - Delete a saved notice
-/cancel - Cancel the ongoing notice action
+•/addnotice - Save a notice for a file keyword
+•/listnotices - Show all saved notices
+•/delnotice - Delete a saved notice
+•/cancel - Cancel the ongoing notice action
 ```
 ## Variables
 
