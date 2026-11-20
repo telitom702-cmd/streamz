@@ -675,7 +675,7 @@ async def send_file_as_link(client, chat_id, file_id, caption=None, protect_cont
         # ফাইলের সাথে নোটিশ (থাকলে) রিপ্লাই হিসেবে পাঠায়
         try:
             from plugins.file_notice import send_file_notice
-            await send_file_notice(msg, get_name(msg))
+            await send_file_notice(msg, caption or get_name(msg))
         except Exception as e:
             logging.warning(f"file notice error: {e}")
 
